@@ -1,0 +1,174 @@
+@font-face {
+	font-family: "ABC Ginto Nord";
+	font-style: normal;
+	font-weight: 800;
+	src: url("../fonts/ABC%20Ginto%20Nord%20normal%20800.woff2") format("woff2");
+}
+@font-face {
+	font-family: "ABC Ginto Nord";
+	font-style: italic;
+	font-weight: 800;
+	src: url("../fonts/ABC%20Ginto%20Nord%20italic%20800.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/gg%20sans%20normal%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: italic;
+	font-weight: 400;
+	src: url("../fonts/gg%20sans%20italic%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/gg%20sans%20normal%20500.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: italic;
+	font-weight: 500;
+	src: url("../fonts/gg%20sans%20italic%20500.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: normal;
+	font-weight: 600;
+	src: url("../fonts/gg%20sans%20normal%20600.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: italic;
+	font-weight: 600;
+	src: url("../fonts/gg%20sans%20italic%20600.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("../fonts/gg%20sans%20normal%20700.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: italic;
+	font-weight: 700;
+	src: url("../fonts/gg%20sans%20italic%20700.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: normal;
+	font-weight: 800;
+	src: url("../fonts/gg%20sans%20normal%20800.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg sans";
+	font-style: italic;
+	font-weight: 800;
+	src: url("../fonts/gg%20sans%20italic%20800.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg mono";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/gg%20mono%20normal%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "gg mono";
+	font-style: normal;
+	font-weight: 700;
+	src: url("../fonts/gg%20mono%20normal%20700.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/Noto%20Sans%20normal%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 400;
+	src: url("../fonts/Noto%20Sans%20italic%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/Noto%20Sans%20normal%20500.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 500;
+	src: url("../fonts/Noto%20Sans%20italic%20500.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 600;
+	src: url("../fonts/Noto%20Sans%20normal%20600.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 600;
+	src: url("../fonts/Noto%20Sans%20italic%20600.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("../fonts/Noto%20Sans%20normal%20700.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 700;
+	src: url("../fonts/Noto%20Sans%20italic%20700.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 800;
+	src: url("../fonts/Noto%20Sans%20normal%20800.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Noto Sans";
+	font-style: italic;
+	font-weight: 800;
+	src: url("../fonts/Noto%20Sans%20italic%20800.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Source Code Pro";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/Source%20Code%20Pro%20normal%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Source Code Pro";
+	font-style: normal;
+	font-weight: 700;
+	src: url("../fonts/Source%20Code%20Pro%20normal%20700.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Corinthia";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/Corinthia%20normal%20400.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Fraunces";
+	font-style: normal;
+	font-weight: 300 800;
+	src: url("../fonts/Fraunces%20normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Urfa";
+	font-style: italic;
+	font-weight: 800;
+	src: url("../fonts/Urfa%20italic%20800.woff2") format("woff2");
+}
